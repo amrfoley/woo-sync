@@ -1,0 +1,13 @@
+.WSPO_img {
+    max-width: 90px;
+}
+
+.regular-text  {
+    width: 350px;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+    color: #007BFF;
+    text-decoration: underline;
+}
